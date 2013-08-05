@@ -10,7 +10,7 @@
 	echo "<h1>Hello " . $_GET["name"] . "</h1>";
 	 
 	// The value of the variable age is found
-	echo "<h1>You are " . $_GET["age"] . " years old </h1>";
+	echo "<h1>You are now" . $_GET["age"] . " years old </h1>";
 
 	?>
 
